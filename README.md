@@ -1,3 +1,10 @@
+## Live Preview
+
+You can check out the live preview of the project by visiting the following link:
+
+[Live Demo](https://deepakyoutubeclone123.netlify.app/)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
